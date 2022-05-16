@@ -1,0 +1,82 @@
+[
+{
+    "data_id": 1, 
+    "mana": 1,
+    "health": 6,
+    "attack": 1,
+    "name": "Flag Runner",
+    "descriptions": "Whenever a friendly minion dies, gain +1 Attack." 
+},
+	{
+      "data_id": 2, 
+      "mana": 3,
+      "health": 1,
+      "attack": 2,
+      "name": "Acherus Veteran",
+      "descriptions": "Battlecry: Give a friendly minion +1 Attack." 
+    },	    
+	{
+      "data_id": 3, 
+      "mana": 4,
+      "health": 1,
+      "attack": 2,
+      "name": "Acornbearer",
+      "descriptions": "Deathrattle: Add two 1/1 Squirrels into your hand." 
+    },	    
+	{
+      "data_id": 4, 
+      "mana": 6,
+      "health": 4,
+      "attack": 2,
+      "name": "Adorable Infestation",
+      "descriptions": "Give a minion +1/+1. Summon a 1/1 Cub. Add a Cub to your hand." 
+    },	    
+	{
+      "data_id": 5, 
+      "mana": 7,
+      "health": 4,
+      "attack": 4,
+      "name": "Aeon Reaver",
+      "descriptions": "Battlecry: Deal damage to a minion equal to its Attack." 
+    },	    
+	{
+      "data_id": 6, 
+      "mana": 3,
+      "health": 2,
+      "attack": 2,
+      "name": "Flamereaper",
+      "descriptions": "Also damages the minions next to whomever your hero attacks." 
+    },	    
+	{
+      "data_id": 7, 
+      "mana": 2,
+      "health": 4,
+      "attack": 4,
+      "name": "Proving Grounds",
+      "descriptions": "Summon two minions from your deck. They fight!" 
+    },	    
+	{
+      "data_id": 8, 
+      "mana": 8,
+      "health": 2,
+      "attack": 5,
+      "name": "Bone Glaive",
+      "descriptions": "Battlecry: Dredge." 
+    },	    
+	{
+      "data_id": 9, 
+      "mana": 9,
+      "health": 2,
+      "attack": 4,
+      "name": "Raging Felscreamer",
+      "descriptions": "Battlecry: The next Demon you play costs (2) less." 
+    },	    
+	{
+      "data_id": 10, 
+      "mana": 3,
+      "health": 4,
+      "attack": 2,
+      "name": "Vengeful Spirit",
+      "descriptions": "Outcast: Draw 2 Deathrattle minions." 
+    } 
+]
